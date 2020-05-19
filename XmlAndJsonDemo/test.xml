@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_231" class="java.beans.XMLDecoder">
+ <object class="practice.Person">
+  <void property="address">
+   <string>wsw</string>
+  </void>
+  <void property="email">
+   <string>@123</string>
+  </void>
+  <void property="fax">
+   <string>135156</string>
+  </void>
+  <void property="name">
+   <string>dsa</string>
+  </void>
+  <void property="personid">
+   <string>111</string>
+  </void>
+  <void property="tel">
+   <string>563</string>
+  </void>
+ </object>
+</java>

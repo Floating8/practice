@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person personid="E01">
+        <name>Tt</name>
+        <address>10 xxx</address>
+        <tel>46546</tel>
+        <fax>45676</fax>
+        <email>@456456</email>
+    </person>
+    <person personid="E02">
+        <name>dsad</name>
+        <address>84dsa</address>
+        <tel>456</tel>
+        <fax>8786</fax>
+        <email>@9496</email>
+    </person>
+</people>
